@@ -1,0 +1,17 @@
+Microsoft (R) Build Engine version 17.0.0+c9eb9dd64 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+/workspace/blog-nullable-reference-types/Person.cs(4,21): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/workspace/blog-nullable-reference-types/blog-nullable-reference-types.csproj]
+/workspace/blog-nullable-reference-types/Person.cs(9,19): warning CS8618: Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/workspace/blog-nullable-reference-types/blog-nullable-reference-types.csproj]
+  blog-nullable-reference-types -> /workspace/blog-nullable-reference-types/bin/Debug/net6.0/blog-nullable-reference-types.dll
+
+Build succeeded.
+
+/workspace/blog-nullable-reference-types/Person.cs(4,21): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/workspace/blog-nullable-reference-types/blog-nullable-reference-types.csproj]
+/workspace/blog-nullable-reference-types/Person.cs(9,19): warning CS8618: Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/workspace/blog-nullable-reference-types/blog-nullable-reference-types.csproj]
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:04.45
